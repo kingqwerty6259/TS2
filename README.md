@@ -1,5 +1,3 @@
-#TS2
-
 ## Overview
 
 TS2 is an interactive web-based project built using JavaScript. The project includes various libraries and components that allow for dynamic user interactions. It features custom scripts and style elements, allowing for a personalized experience in the web environment.
