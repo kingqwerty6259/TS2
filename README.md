@@ -14,7 +14,8 @@ TS2 is an interactive web-based project built using JavaScript. The project incl
 - Easy integration with JavaScript libraries for enhanced functionality.
 - Customizable style via CSS.
 
-## [Run Code](https://kingqwerty6259.github.io/TS2)
+## Run Code
+- [Run game in browser](https://kingqwerty6259.github.io/TS2)
 
 ## Files
 
